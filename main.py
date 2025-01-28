@@ -1,6 +1,8 @@
 """
 Ling, Za
 
+https://github.com/zlingx1/Module-2-Lab
+
 If...Else...While
 Application asks for student information (last_name, first_name, gpa), and processes them on eligible rewards 
 """
